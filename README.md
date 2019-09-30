@@ -1,3 +1,5 @@
+THIS FORK EXISTS AS A SOLUTION TO THIS ISSUE: https://github.com/jiangmiao/auto-pairs/issues/215 IT DOES NOTHING ELSE
+
 Auto Pairs
 ==========
 Insert or delete brackets, parens, quotes in pair.
@@ -8,9 +10,9 @@ Installation
 * Manual
   * Copy `plugin/auto-pairs.vim` to `~/.vim/plugin`
 * [Pathogen](https://github.com/tpope/vim-pathogen)
-  * `git clone git://github.com/jiangmiao/auto-pairs.git ~/.vim/bundle/auto-pairs`
+  * `git clone git://github.com/ekiefl/auto-pairs.git ~/.vim/bundle/auto-pairs`
 * [Vundle](https://github.com/VundleVim/Vundle.vim)
-  * `Plugin 'jiangmiao/auto-pairs'`
+  * `Plugin 'ekiefl/auto-pairs'`
 
 Features
 --------
