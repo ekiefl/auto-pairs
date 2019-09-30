@@ -1,4 +1,4 @@
-THIS FORK EXISTS AS A SOLUTION TO THIS ISSUE: https://github.com/jiangmiao/auto-pairs/issues/215 IT DOES NOTHING ELSE
+# THIS FORK EXISTS AS A SOLUTION TO THIS ISSUE: https://github.com/jiangmiao/auto-pairs/issues/215 IT DOES NOTHING ELSE
 
 Auto Pairs
 ==========
